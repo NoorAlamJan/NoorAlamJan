@@ -1,11 +1,11 @@
-I'm Noor Alam 
+## I'm Noor Alam 
 
-## 🎓 Research Focus
+## Research Focus
 Machine Learning • NLP • Generative AI • Computer Vision • Topic Modeling • LLM Systems
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I am a Data Scientist and AI Researcher focused on building scalable and intelligent AI systems using:
 
@@ -20,7 +20,7 @@ I aim to build **reproducible, interpretable, and production-ready AI systems** 
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Languages & Frameworks
 
@@ -39,7 +39,7 @@ I aim to build **reproducible, interpretable, and production-ready AI systems** 
 
 ---
 
-## 📌 Research Interests
+##  Research Interests
 
 - Topic Modeling & Semantic Search
 - Large Language Models (LLMs)
@@ -53,7 +53,7 @@ I aim to build **reproducible, interpretable, and production-ready AI systems** 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 - Legal RAG System
 - Plant Disease Detection Using YOLO
@@ -72,7 +72,7 @@ I aim to build **reproducible, interpretable, and production-ready AI systems** 
 
 ---
 
-## 📊 Current Work
+##  Current Work
 
 - Multi-Agent AI Systems
 - Retrieval-Augmented Generation (RAG)
@@ -84,7 +84,7 @@ I aim to build **reproducible, interpretable, and production-ready AI systems** 
 
 ---
 
-## 📚 Areas of Expertise
+##  Areas of Expertise
 
 - Natural Language Processing (NLP)
 - Deep Learning
@@ -100,7 +100,7 @@ I aim to build **reproducible, interpretable, and production-ready AI systems** 
 ---
 
 
-## 📫 Contact
+##  Contact
 
 - GitHub: https://github.com/NoorAlamJan
 
