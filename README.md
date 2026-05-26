@@ -99,20 +99,11 @@ I aim to build **reproducible, interpretable, and production-ready AI systems** 
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoorAlamJan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorAlamJan&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contact
 
 - GitHub: https://github.com/NoorAlamJan
 
 ---
-
-## ⚡ Fun Fact
 
 I enjoy building AI systems that combine research quality with practical real-world deployment.
