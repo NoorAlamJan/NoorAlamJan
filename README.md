@@ -4,7 +4,7 @@
 
 I bridge research and engineering: I've led AI teams, shipped models to production, and published reproducible research-grade code. Currently preparing a **PhD research proposal** in trustworthy and interpretable AI systems.
 
-Italy &nbsp;|&nbsp; n.alam@studenti.unina.it &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/noor-alam-0a7122209)
+n.alam@studenti.unina.it &nbsp;|&nbsp;  [LinkedIn](https://www.linkedin.com/in/noor-alam-0a7122209)
 
 ---
 
