@@ -2,7 +2,7 @@
 
 **AI/ML Engineer & Researcher**  3+ years building production ML systems across NLP, computer vision, and time-series forecasting. Currently completing an **MS in Data Science at the University of Naples Federico II**, where my thesis focuses on fine-tuning small language models for efficient code and natural language processing.
 
-I bridge research and engineering: I've led AI teams, shipped models to production, and published reproducible research-grade code. C
+I bridge research and engineering: I've led AI teams, shipped models to production, and published reproducible research-grade code. 
 
 ---
 
