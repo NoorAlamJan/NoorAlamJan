@@ -69,18 +69,9 @@ Backend services and RESTful APIs for enterprise applications; database design a
 
 ---
 
-##  GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoorAlamJan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorAlamJan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="155"/>
-</p>
-
----
 
 ##  Currently Working On
 
-- ** Thesis** — fine-tuning small language models (SLMs) for code + NL tasks under Prof. Anna Corazza
 - **Hybrid RAG** — combining dense (FAISS) + sparse (BM25) retrieval with cross-encoder re-ranking
 
 ---
