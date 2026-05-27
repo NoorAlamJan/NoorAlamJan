@@ -99,12 +99,4 @@ I aim to build **reproducible, interpretable, and production-ready AI systems** 
 
 ---
 
-
-##  Contact
-
-- GitHub: https://github.com/NoorAlamJan
-- LinkedIn: www.linkedin.com/in/noor-alam-0a7122209
-
----
-
 I enjoy building AI systems that combine research quality with practical real-world deployment.
