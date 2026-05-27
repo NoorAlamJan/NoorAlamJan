@@ -4,7 +4,7 @@
 
 Currently focused on **large language models**, **retrieval-augmented generation**, and **explainable AI**. Pursuing a PhD in Systems Science to advance research in trustworthy and scalable AI.
 
-  &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/noor-alam-0a7122209) &nbsp;|&nbsp; 📧 [Email me](mailto:noor31308@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/noor-alam-0a7122209) &nbsp;|&nbsp;  [Email me](mailto:noor31308@gmail.com)
 
 ---
 
