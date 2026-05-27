@@ -2,9 +2,7 @@
 
 **AI/ML Engineer & Researcher**  3+ years building production ML systems across NLP, computer vision, and time-series forecasting. Currently completing an **MS in Data Science at the University of Naples Federico II**, where my thesis focuses on fine-tuning small language models for efficient code and natural language processing.
 
-I bridge research and engineering: I've led AI teams, shipped models to production, and published reproducible research-grade code. Currently preparing a **PhD research proposal** in trustworthy and interpretable AI systems.
-
-n.alam@studenti.unina.it &nbsp;|&nbsp;  [LinkedIn](https://www.linkedin.com/in/noor-alam-0a7122209)
+I bridge research and engineering: I've led AI teams, shipped models to production, and published reproducible research-grade code. C
 
 ---
 
@@ -78,6 +76,6 @@ Backend services and RESTful APIs for enterprise applications; database design a
 
 ##  Get In Touch
 
-Open to **PhD opportunities**, **research collaborations**, and senior ML engineering roles.
+Open to **research collaborations**, and senior ML engineering roles.
 
 [LinkedIn](https://www.linkedin.com/in/noor-alam-0a7122209) &nbsp;|&nbsp; n.alam@studenti.unina.it
