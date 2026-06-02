@@ -1,81 +1,94 @@
-# Hi, I'm Noor Alam 
+<div align="center">
 
-**AI/ML Engineer & Researcher**  3+ years building production ML systems across NLP, computer vision, and time-series forecasting. Currently completing an **MS in Data Science at the University of Naples Federico II**, where my thesis focuses on fine-tuning small language models for efficient code and natural language processing.
+# Noor Alam
+### AI Researcher · NLP Engineer · ML Systems Builder
 
-I bridge research and engineering: I've led AI teams, shipped models to production, and published reproducible research-grade code. 
+*Building production-ready AI systems that bridge research and real-world deployment*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noor-alam-0a7122209)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoorAlamJan)
 
-##  Experience
-
-**Data Scientist — VivaDrive** *(Nov 2025 – Apr 2026 · Remote, Warsaw)*
-Fleet performance prediction and driver behaviour analysis on real-world vehicle telematics data. Built anomaly detection models across connected fleet networks and integrated ML inference into production backend systems.
-
-**AI Engineer — Scipher Solutions** *(Dec 2024 – Oct 2025 · Remote, CA)*
-Led a team building AI systems for environmental monitoring and sustainability analytics. Fine-tuned CNNs and LSTMs on sensor data; established MLOps practices with MLflow, model versioning, and automated evaluation pipelines.
-
-**AI Engineer — Slosh AI Solutions** *(Apr 2023 – Nov 2024 · Islamabad)*
-Built production NLP pipelines (text classification, NER, sentiment analysis) and computer vision modules (object detection, segmentation) using HuggingFace Transformers, PyTorch, and TensorFlow.
-
-**Software Engineer — BlueCross Business Solutions** *(Sep 2021 – Jul 2022 · Islamabad)*
-Backend services and RESTful APIs for enterprise applications; database design and optimisation across MySQL and PostgreSQL.
-
+</div>
 
 ---
 
-##  Projects
+## About
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Multimodal RAG System**](https://github.com/NoorAlamJan/multimodal-rag) | PDF + image + text Q&A pipeline with FAISS vector search and faithfulness/relevance evaluation | LangChain · FAISS · GPT-4V · Streamlit |
-| [**Explainable COVID-19 Classifier**](https://github.com/NoorAlamJan/explainable-covid19-classifier) | SHAP global/local explanations, LIME, calibration curves, age-group fairness analysis | scikit-learn · SHAP · LIME |
-| [**Real-time Sentiment Dashboard**](https://github.com/NoorAlamJan/realtime-sentiment-dashboard) | Live NLP pipeline with VADER + DistilBERT, Twitter/NewsAPI ingestion, trend detection | Transformers · Streamlit · VADER |
-| [**GNN Fraud Detection**](https://github.com/NoorAlamJan/gnn-fraud-detection) | GCN / GAT / GraphSAGE on transaction graphs with Focal Loss; ablation vs MLP baseline | PyTorch Geometric · NetworkX |
-| [**Time Series Forecasting + UQ**](https://github.com/NoorAlamJan/timeseries-forecasting-uq) | LSTM+Attention, Quantile Regression, MC Dropout; calibrated prediction intervals, CRPS, walk-forward backtesting | PyTorch · Prophet · Pinball Loss |
-| [**Legal RAG System**](https://github.com/NoorAlamJan/Legal-RAG) | Multi-agent RAG for legal document Q&A with semantic search over case law | LangChain · LLMs · FAISS |
-| [**BERTopic Modelling Pipeline**](https://github.com/NoorAlamJan/BERTopic-for-Topic-Modeling-) | End-to-end topic discovery using transformer embeddings, UMAP, and HDBSCAN | BERTopic · UMAP · HDBSCAN |
-| [**YOLO Plant Disease Detection**](https://github.com/NoorAlamJan/YOLO_Plants_Disease_Detetction) | Real-time crop disease classification for smart agriculture | YOLOv8 · OpenCV · Python |
+I'm a Data Scientist and AI Researcher specialising in **Natural Language Processing**, **Large Language Models**, and **Retrieval-Augmented Generation**. My work focuses on building systems that are reproducible, interpretable, and deployable — not just experimental notebooks.
+
+Currently working on:
+-  **Multi-Agent AI Systems** with LLM orchestration
+-  **RAG Pipelines** for domain-specific knowledge retrieval
+-  **Clinical NLP** — BioNLP-BERT + FAISS + SOAP note generation
+-  **BERTopic** research for large-scale document analysis
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**Core Languages**
 
-**Deep Learning & NLP**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![BERTopic](https://img.shields.io/badge/BERTopic-8A2BE2?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**ML & Data**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**ML / DL Frameworks**
 
-**MLOps & Tools**
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![🤗 Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 
----
+**NLP & AI**
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 
-##  Currently Working On
+**Tools & Platforms**
 
-- **Hybrid RAG** — combining dense (FAISS) + sparse (BM25) retrieval with cross-encoder re-ranking
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
-##  Get In Touch
+## Featured Projects
 
-Open to **research collaborations**, and senior ML engineering roles.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🏥 cliniparse](https://github.com/NoorAlamJan/cliniparse) | End-to-end clinical NLP — PHI de-ID, BioNLP-BERT NER, SOAP notes, ICD-10 RAG tagging | `BioNLP-BERT` `FAISS` `Presidio` `Claude API` |
+| [⚖️ Legal-RAG](https://github.com/NoorAlamJan/Legal-RAG) | Multi-agent RAG system for legal document semantic search and Q&A | `LLMs` `RAG` `Vector DB` |
+| [📰 BERTopic Pipeline](https://github.com/NoorAlamJan/BERTopic-for-Topic-Modeling-) | Large-scale document topic modeling with transformer embeddings and clustering | `BERTopic` `BERT` `UMAP` `HDBSCAN` |
+| [🌿 Plant Disease Detection](https://github.com/NoorAlamJan/YOLO_Plants_Disease_Detection) | Real-time crop disease identification using YOLO for smart agriculture | `YOLOv8` `OpenCV` `Computer Vision` |
 
-[LinkedIn](https://www.linkedin.com/in/noor-alam-0a7122209) &nbsp;|&nbsp; n.alam@studenti.unina.it
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoorAlamJan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorAlamJan&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NoorAlamJan&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Research Interests
+
+`Large Language Models` · `Retrieval-Augmented Generation` · `Clinical NLP` · `Topic Modeling`
+`Multi-Agent Systems` · `Explainable AI` · `Computer Vision` · `Representation Learning`
+
+---
+
+<div align="center">
+
+*Open to research collaborations, AI engineering roles, and interesting problems.*
+
+📫 [LinkedIn](https://www.linkedin.com/in/noor-alam-0a7122209) · [GitHub](https://github.com/NoorAlamJan)
+
+</div>
