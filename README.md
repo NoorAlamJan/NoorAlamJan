@@ -14,12 +14,12 @@
 
 ## About
 
-I'm a Data Scientist and AI Researcher specialising in **Natural Language Processing**, **Large Language Models**, and **Retrieval-Augmented Generation**. My work focuses on building systems that are reproducible, interpretable, and deployable — not just experimental notebooks.
+I'm a Data Scientist and AI Researcher specialising in **Natural Language Processing**, **Large Language Models**, and **Retrieval-Augmented Generation**. My work focuses on building systems that are reproducible, interpretable, and deployable not just experimental notebooks.
 
 Currently working on:
 -  **Multi-Agent AI Systems** with LLM orchestration
 -  **RAG Pipelines** for domain-specific knowledge retrieval
--  **Clinical NLP** — BioNLP-BERT + FAISS + SOAP note generation
+-  **Clinical NLP**  BioNLP-BERT + FAISS + SOAP note generation
 -  **BERTopic** research for large-scale document analysis
 
 ---
