@@ -57,22 +57,21 @@ Currently working on:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🏥 cliniparse](https://github.com/NoorAlamJan/cliniparse) | End-to-end clinical NLP — PHI de-ID, BioNLP-BERT NER, SOAP notes, ICD-10 RAG tagging | `BioNLP-BERT` `FAISS` `Presidio` `Claude API` |
-| [⚖️ Legal-RAG](https://github.com/NoorAlamJan/Legal-RAG) | Multi-agent RAG system for legal document semantic search and Q&A | `LLMs` `RAG` `Vector DB` |
-| [📰 BERTopic Pipeline](https://github.com/NoorAlamJan/BERTopic-for-Topic-Modeling-) | Large-scale document topic modeling with transformer embeddings and clustering | `BERTopic` `BERT` `UMAP` `HDBSCAN` |
-| [🌿 Plant Disease Detection](https://github.com/NoorAlamJan/YOLO_Plants_Disease_Detection) | Real-time crop disease identification using YOLO for smart agriculture | `YOLOv8` `OpenCV` `Computer Vision` |
+| [ cliniparse](https://github.com/NoorAlamJan/cliniparse) | End-to-end clinical NLP — PHI de-ID, BioNLP-BERT NER, SOAP notes, ICD-10 RAG tagging | `BioNLP-BERT` `FAISS` `Presidio` `Claude API` |
+| [ Legal-RAG](https://github.com/NoorAlamJan/Legal-RAG) | Multi-agent RAG system for legal document semantic search and Q&A | `LLMs` `RAG` `Vector DB` |
+| [ BERTopic Pipeline](https://github.com/NoorAlamJan/BERTopic-for-Topic-Modeling-) | Large-scale document topic modeling with transformer embeddings and clustering | `BERTopic` `BERT` `UMAP` `HDBSCAN` |
+| [ Plant Disease Detection](https://github.com/NoorAlamJan/YOLO_Plants_Disease_Detection) | Real-time crop disease identification using YOLO for smart agriculture | `YOLOv8` `OpenCV` `Computer Vision` |
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoorAlamJan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorAlamJan&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NoorAlamJan&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=NoorAlamJan&color=0e75b6&style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public_Repos-13-0e75b6?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-Growing-brightgreen?style=for-the-badge&logo=github)
 
 </div>
 
