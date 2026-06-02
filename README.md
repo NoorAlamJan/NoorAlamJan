@@ -70,7 +70,7 @@ Currently working on:
 ## GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NoorAlamJan&color=0e75b6&style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public_Repos-13-0e75b6?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public_Repos-21-0e75b6?style=for-the-badge&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-Growing-brightgreen?style=for-the-badge&logo=github)
 
 </div>
